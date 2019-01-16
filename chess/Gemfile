@@ -1,0 +1,3 @@
+load 'board.rb'
+board = Board.new
+display = Display.new(board) 
